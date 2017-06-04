@@ -1,5 +1,7 @@
 def gcdOfTwo(n, m)
-    #Implement with recursion.
+    def _gcdOfTwo(larger, smaller)
+        #Implement with recursion.
+    end
 end
 
 def gcd(*nums)
